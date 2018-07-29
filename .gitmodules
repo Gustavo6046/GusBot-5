@@ -1,0 +1,3 @@
+[submodule "BayesRehermann"]
+	path = BayesRehermann
+	url = https://github.com/Gustavo6046/BayesRehermann
